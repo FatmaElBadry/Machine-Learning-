@@ -1,2 +1,2 @@
 # Machine-Learning-
-This Repository is created to hold my machine learning work codes
+This is a code developed as an exercise for applying the linear regression algorithm on a test data
