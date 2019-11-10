@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 #The path o f the data file
 path = 'C:\\Fatma ElBadry\\ML\ML-GitHub-Projects\\Linear-Regression-1\\ex1data1.txt'
 
-#Read the data using pandas
+   
 data = pd.read_csv(path, header=None, names=['Population', 'Profit'])
 
 #show data details
